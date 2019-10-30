@@ -1,0 +1,5 @@
+body {
+  --bgcolor: grey; /* Custom property, aka Variable */
+  background-color: var(--bgcolor);
+}
+
