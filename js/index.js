@@ -1,7 +1,9 @@
-// String is a serie of characters
-console.log(`hello world`);
+// String is a series of characters
+console.log(`hello world`); // backticks (template literals)
+console.log('hello world'); // single quotes
+console.log("hello world"); // double quotes
 
-// Number is a number
+// Number can be integer or decimal (both positive or negative)
 console.log(3 + 5);   // add
 console.log(3 - 5);   // subtract
 console.log(3 * 5);   // multiply
